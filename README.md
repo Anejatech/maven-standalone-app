@@ -19,3 +19,4 @@ java -jar target/name_of_jar.jar
 #Exmple of webhook trigger
 #Example
 #final
+#exit
